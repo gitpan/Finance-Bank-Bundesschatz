@@ -1,0 +1,5 @@
+Revision history for Perl extension Finance::Bank::Bundesschatz.
+
+1.00  Fri Sep 19 19:43:54 CEST 2003
+        - original version; created by h2xs 1.2 with options
+                -X -n Finance::Bank::Bundesschatz
