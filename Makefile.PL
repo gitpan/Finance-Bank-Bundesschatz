@@ -4,7 +4,7 @@ use ExtUtils::MakeMaker;
 WriteMakefile
   (
    NAME        => 'Finance::Bank::Bundesschatz',
-   VERSION     => '1.00',
+   VERSION     => '1.01',
    PL_FILES    => {},
    INSTALLDIRS => 'site',
    PREREQ_PM   => {

@@ -1,4 +1,4 @@
-# $Id: Bundesschatz.pm,v 1.2 2003/10/10 09:51:45 florian Exp $
+# $Id: Bundesschatz.pm,v 1.3 2003/10/12 12:03:43 florian Exp $
 
 package Finance::Bank::Bundesschatz;
 
@@ -17,7 +17,7 @@ use Class::MethodMaker
 	get_set       => [ qw/account pass coowner _agent/ ],
 	boolean       => [ qw/return_floats _connected/ ];
 
-our $VERSION = '1.00';
+our $VERSION = '1.01';
 
 
 # login into the online banking system.

@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name: Finance-Bank-Bundesschatz
-version: 1.00
+version: 1.01
 license: perl
 distribution_type: module
 requires:
@@ -15,5 +15,5 @@ conflicts: {}
 provides:
   Finance::Bank::Bundesschatz:
     file: lib/Finance/Bank/Bundesschatz.pm
-    version: 1.00
+    version: 1.01
 generated_by: Module::Build version 0.20
